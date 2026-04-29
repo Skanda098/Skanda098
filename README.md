@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Skanda</h1>
 <h3 align="center">I'm a Computer Science Engineering student at BMS College of Engineering in Bengaluru. I'm passionate about turning ideas into code, participating in hackathons, and constantly expanding my tech stack.</h3>
+</br>
 
 - 📫 Reach me at **skandakashyap10@gmail.com**
 
