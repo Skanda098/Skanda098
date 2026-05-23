@@ -16,8 +16,3 @@
 </p>
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skanda098&show_icons=true&locale=en&layout=compact" alt="skanda098" />
-  <img src="https://github-readme-stats.vercel.app/api?username=skanda098&show_icons=true&locale=en" alt="skanda098" />
-</div>
